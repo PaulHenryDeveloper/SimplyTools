@@ -12,5 +12,5 @@ de facilitar tarefas diárias e proporcionar acesso
 rápido a recursos importantes.
 
 Se você gostou deste script, considere fazer uma doação
-para apoiar o desenvolvedor:
+para apoiar o desenvolvedor:  
 https://www.paypal.com/donate/?hosted_button_id=FLSHQ3U5J5XTJ
