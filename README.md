@@ -13,4 +13,4 @@ rápido a recursos importantes.
 
 Se você gostou deste script, considere fazer uma doação
 para apoiar o desenvolvedor:
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=FLSHQ3U5J5XTJ)
+https://www.paypal.com/donate/?hosted_button_id=FLSHQ3U5J5XTJ
